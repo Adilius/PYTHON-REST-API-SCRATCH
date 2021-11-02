@@ -1,7 +1,7 @@
 
 # PYTHON-REST-API-SCRATCH
 
-RESTful API using HTTP server in Python from Scratch with no external libraries
+RESTful API using HTTPServer and BaseHTTPRequestHandler in Python from Scratch with no other external libraries
 
   
 
